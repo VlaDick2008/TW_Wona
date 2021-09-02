@@ -1,0 +1,30 @@
+// COMMON
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  text-align: right;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+.outer-wrapper {
+  margin: 0 auto;
+  max-width: 1300px;
+}
